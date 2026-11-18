@@ -1,0 +1,6 @@
+{
+  "name": "SkillProof",
+  "description": "AI-powered developer skill verification platform with practical coding assessments, transparent skill scoring, analytics, and personalized Gemini learning roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
